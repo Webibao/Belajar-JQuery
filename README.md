@@ -7,7 +7,7 @@ cara menggunakan JQuery 3.6.1 pada Project website
 ### 1. Siapkan terlebih dahulu
 
 * [Google Chrome](https://www.google.com/chrome/)  
-* [Visual Studi Code](https://code.visualstudio.com/download) 
+* [Visual Studio Code](https://code.visualstudio.com/download) 
     * Extension Live Server
 
 
