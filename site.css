@@ -86,8 +86,8 @@ article {
   }
 }
 
-/* Pie */
-.pie {
+/* kue */
+.kue {
   width: 200px;
   padding: 10px;
   margin: 10px;
@@ -95,31 +95,38 @@ article {
   border: solid 1px #ccc;
 }
 
-.pie img {
+.kue img {
   width: 100%;
 }
 
-.pie .title {
+.kue .title {
   font-weight: bold;
 }
 
-.pie .price {
+.kue .price {
   text-align: right;
 }
 
-.pie .columns {
+.kue .columns {
   width: 100%;
 }
 
-.pie .columns div {
+.kue .columns div {
   width: 50%;
 }
 
-.pie button {
+.kue button {
   background-color: #f6aeae;
   padding: 10px;
   border: solid 1px #f6aeae;
   border-radius: 3px;
   color: #fff;
   cursor:pointer;
+}
+.columns>h4, .columns>p {
+  padding-right: 20px;
+}
+
+small {
+  margin-top: 2px;
 }
